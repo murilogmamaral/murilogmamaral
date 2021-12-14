@@ -1,3 +1,3 @@
 ### Olá, pessoal! 👋
 
-Sou professor e pesquisador de perfil multidisciplinar agora dedicado à Ciência de Dados. Atuo no Núcleo de Produção de Dados do Cidacs, Fiocruz. E participo da Academia QADS, programa de treinamento idealizado pela empresa Qintess.
+Com formação multidisciplinar em filosofia analítica e matemática, tenho me dedicado à área de dados há um ano e meio. Trabalho no Cidacs (Fiocruz) como Engenheiro de Dados, desenvolvendo pipelines de ETL com Python, Spark e Hadoop e vinculando grandes bases para pesquisas sobre a saúde da população brasileira. E concluí recentemente a Academia QADS, um programa da empresa Qintess em parceria com a mesttra, totalizando 350 horas de treinamento em Ciência de Dados.
