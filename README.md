@@ -2,7 +2,7 @@
 
 ***
 
-Com formação multidisciplinar em matemática e filosofia analítica, tenho me dedicado à área de dados desde 2020. Em 2021, passei pela Academia QADS, um programa da empresa Qintess em parceria com a mesttra, totalizando 350 horas de treinamento em Ciência de Dados. Também em 2021, iniciei a carreira de Engenheiro de Dados no Cidacs (Fiocruz), desenvolvendo pipelines de ETL com Python, Spark e Hadoop e vinculando grandes bases para pesquisas sobre a saúde da população. E agora, entrei para a A3Data Consultoria.
+Com formação multidisciplinar em matemática e filosofia analítica, tenho me dedicado à área de dados desde 2020. Em 2021, passei pela Academia QADS, um programa da empresa Qintess em parceria com a mesttra, totalizando 350 horas de treinamento em Ciência de Dados. Também em 2021, iniciei a carreira de Engenheiro de Dados no Cidacs (Fiocruz), desenvolvendo pipelines de ETL com Python, Spark e Hadoop e vinculando grandes bases para pesquisas sobre a saúde da população. Hoje, atuo na A3Data Consultoria.
 
 ***
 
