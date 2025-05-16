@@ -1,2 +1,2 @@
 ## Description
-Having 4 years of experience in Data Engineering and 2 years in Data Science, I am a versatile data professional with solid knowledge of Python and SQL. Currently, I am a Technical Lead at BNP Paribas Personal Finance, supporting various teams within the HUB Analytics to ensure high-quality data preparation processes aimed at marketing decision-making. In addition, I am a Postdoctoral Researcher at Unicamp specialized in time series forecasting with deep learning models, addressing challenges in the Oil & Gas sector.
+I am a creative and versatile data professional with advanced knowledge of Python and SQL.
