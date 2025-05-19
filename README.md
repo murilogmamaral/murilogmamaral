@@ -1,2 +1,2 @@
 ## Description
-I am a creative and versatile data professional with advanced knowledge of Python and SQL.
+I am a versatile data professional with advanced knowledge of Python and SQL.
