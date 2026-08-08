@@ -1,2 +1,2 @@
 ## Description
-I am a versatile data professional with advanced knowledge of Python and SQL.
+6+ years of work experience in Data Engineering, specialised in Databricks and Azure.
